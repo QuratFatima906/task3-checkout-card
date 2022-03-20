@@ -61,6 +61,7 @@ body {
     grid-template: 1fr / 1fr;
     place-items: center;
     border-radius: 50%;
+    cursor: pointer;
 }
 
 .header .header__profile > * {
